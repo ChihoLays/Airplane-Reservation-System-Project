@@ -7,3 +7,5 @@ Project Members:
 #6  Chiho Li 
 #23 Phutthiphat Lueangmantham 
 #26 Puttiphat Udompholpattanaporn 
+
+Program : C++ (File, Struct, Switch, String)
