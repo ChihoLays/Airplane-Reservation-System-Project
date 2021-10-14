@@ -8,4 +8,5 @@ Project Members: <br />
 #23 Phutthiphat Lueangmantham <br />
 #26 Puttiphat Udompholpattanaporn <br />
 
-Program : C++ (File, Struct, Switch, String)
+Program: <br />
+C++ (File, Struct, Switch, String)
