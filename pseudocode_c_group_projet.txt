@@ -1,0 +1,63 @@
+declare the library the program use (C and C++)
+declare maxseat value as 50
+
+declare a function named as count which has the constant destination (string)
+    switch()
+        return destination for each plane
+
+declare a char* function named as pilot to return the pilot name(string) 
+    if(timeset ==1)
+       switch()
+              return pilot named of morning flight for the chosen plane
+    else if(timeset==2)
+             return pilot named of evening flight for the chosen plane
+
+declare a char* function named as departure_time to return the departure time (string)
+    if(timeset ==1)
+       switch()
+              return departure time for the chosen morning plane
+    else if(timeset==2)
+             return departure time for the chosen evening plane
+
+declare a char* function named as arrival_time to return the arrival time (string)
+    if(timeset ==1)
+       switch()
+              return arrival time for the chosen morning plane
+    else if(timeset==2)
+             return arrival time for the chosen evening plane
+
+declare a char* function named as cost to return the cost (string)
+    switch()
+        return cost for chosen plane
+
+Create the struct to store the name and passport for each passenger for 20 plane in which there is 50 passengers in each plane
+
+Main function
+
+Open the file
+
+If it is not there,it will create the new one and set as default which will be empty for every seat
+
+Declare 2 char array to store the name and  identification card of the customer 
+
+Read each char from the file to get each passenger name and certification card for each
+
+Print the welcome page of my project
+
+And then ask the customer to enter the information and also check whether there is invalid input or not. (gender, name,id card number)//if there is invalid, it will ask again
+
+Print out the information of each choice for the user to choose
+Create switch 
+       Case 1: ask the user to enter the timeset(morning or evenning) and plane number . After that it will print the pilot name,departure and arrival time
+
+        Case2:
+Firstly, it will ask the user to enter plane number,time_set(morning or evenning) Secondly,check every seat in that plane and print whether there is empty or reserve. Third, it will ask user to choose which seat the user want to reserve. If that seat is empty,reserve success l.If not it will ask again
+	
+	case 3: 
+It will ask for the plane number and seat that you reserved. Then ask the time that you have entered. after that it ask your name to confirm and it will check that if it has the same as the name as the registered seat. If the name is not correct it will ask for the user to enter the name again until it is correct. Finally it will print out the ticket which has names, ID number, Departure and arrival time and the destination.
+	
+	Case 4 : it will clear all seats and set it as empty for every seats
+	
+	Case:5 it will write all the seat into rhe file and close it
+	
+	The program will give invalid number and ask user to write choice again if it is not 1,2,3,4,5
