@@ -48,13 +48,14 @@ And then ask the customer to enter the information and also check whether there 
 
 Print out the information of each choice for the user to choose
 Create switch 
-       Case 1: ask the user to enter the timeset(morning or evenning) and plane number . After that it will print the pilot name,departure and arrival time
+       Case 1: 
+         	ask the user to enter the timeset(morning or evenning) and plane number . After that it will print the pilot name,departure and arrival time
 
         Case2:
-Firstly, it will ask the user to enter plane number,time_set(morning or evenning) Secondly,check every seat in that plane and print whether there is empty or reserve. Third, it will ask user to choose which seat the user want to reserve. If that seat is empty,reserve success l.If not it will ask again
+		Firstly, it will ask the user to enter plane number,time_set(morning or evenning) Secondly,check every seat in that plane and print whether there is empty or 			reserve. Third, it will ask user to choose which seat the user want to reserve. If that seat is empty,reserve success l.If not it will ask again
 	
 	case 3: 
-It will ask for the plane number and seat that you reserved. Then ask the time that you have entered. after that it ask your name to confirm and it will check that if it has the same as the name as the registered seat. If the name is not correct it will ask for the user to enter the name again until it is correct. Finally it will print out the ticket which has names, ID number, Departure and arrival time and the destination.
+		It will ask for the plane number and seat that you reserved. Then ask the time that you have entered. after that it ask your name to confirm and it will check 			that if it has the same as the name as the registered seat. If the name is not correct it will ask for the user to enter the name again until it is correct. 			Finally it will print out the ticket which has names, ID number, Departure and arrival time and the destination.
 	
 	Case 4 : it will clear all seats and set it as empty for every seats
 	
